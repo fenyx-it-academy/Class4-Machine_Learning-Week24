@@ -11,7 +11,7 @@ Get predictions using Machine Learning models and compare these scores.
 
 Which of these models is the best?
 
-Note: You shouid delivery your homework on Github. You can upload the Kaggle link upon Github by doing public. 
+Note: You should delivery your homework on Github. You can upload the Kaggle link upon Github by doing public. 
 
 ### Success!
 
