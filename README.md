@@ -1,3 +1,6 @@
+Kaggle: https://www.kaggle.com/ozgurozgur/hmw24?scriptVersionId=69272156
+
+
 # Class4-Machine_Learning-Week24
 
 We will use the dataset linked at https://www.kaggle.com/jsphyg/weather-dataset-rattle-package. 
